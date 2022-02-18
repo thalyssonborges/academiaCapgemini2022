@@ -17,8 +17,8 @@ public class Questao_03 {
 		
 		Scanner sc = new Scanner(System.in);
 		
-		String palavra = sc.next(); // i f a i l u h k q q
-									// 0 1 2 3 4 5 6 7 8 9
+		String palavra = sc.next(); 
+									
 		
 		List<String> anagrama = new ArrayList<>();
 		
