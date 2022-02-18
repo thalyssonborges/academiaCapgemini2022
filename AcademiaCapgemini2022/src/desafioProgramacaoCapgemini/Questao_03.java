@@ -26,7 +26,7 @@ public class Questao_03 {
 			for(int j = 0; j<palavra.length(); j++) {
 				if(palavra.charAt(i) == palavra.charAt(j) && i!=j && i<j) { 	//verifica se tem alguma letra a frente repetida
 					
-					if(palavra.charAt(i) == palavra.charAt(i+1)) { 				//verifica se a letra é igual a próxima letra
+					if(palavra.charAt(i) == palavra.charAt(i+1)) { 				//verifica se a letra Ã© igual a prÃ³xima letra
 						String letra1 = palavra.substring(i, i+1);
 						anagrama.add(letra1);
 						
