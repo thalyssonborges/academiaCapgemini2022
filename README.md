@@ -1,4 +1,5 @@
-![LOGOevento](C:\Users\Thalysson\Desktop\LOGOevento.png)
+![LOGOevento](https://user-images.githubusercontent.com/42422817/154608140-2518e028-ca15-455a-93e9-b2c3339cfc85.png)
+
 
 
 
@@ -38,7 +39,7 @@ Para a realização deste desafio foram utilizados:
 - #Questão 2: Sobre essa questão achei que seria muito difícil resolve-lá ao ler o enunciado, porém quando comecei a codificar achei super tranquila de se fazer e, aparentemente, consegui chegar ao esperado. Não fiquei totalmente satisfeito por ter aplicado uma lógica tão extensa. Pesquisei bastante tentando resolver esse problema com uma solução mais simples e curta, porém, a maioria dos artigos falam que uma boa prática seria implementação com regex. Não tenho conhecimentos sobre esse assunto, então preferi continuar atendendo a solução mesmo que não seja da melhor maneira;
 - #Questão 3: Essa questão sim, foi um grande desafio. Tive muitas dificuldades para entender como esse anagrama funcionava. Diferente da lógica comum de um anagrama que baseia as possibilidades por analise combinatória, no enunciado da questão exigia que o anagrama fosse formado com pares, sua implementação é diferente do convencional o que deu muita dor de cabeça. Pesquisei muito e perdi muito tempo tentando desenvolver a questão. Foi bem chatinha de fazer;
 
-
+<br>
 
 > **Conclusão**: *De modo geral gostei muito do desafio (falando serio mesmo), me fez pensar bastante e de certa forma agregou com novos conhecimentos aprendidos ao tentar solucionar as questões;*
 
@@ -56,5 +57,7 @@ Para a realização deste desafio foram utilizados:
   https://autociencia.blogspot.com/2016/09/compilando-e-executando-um-arquivo-java.html).
 
 
+
+<br><br>
 
 Disponibilizado por [thalysson-borges](https://www.linkedin.com/in/thalysson-borges/ "thalysson-borges"). :nerd_face:
