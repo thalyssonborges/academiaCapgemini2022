@@ -41,7 +41,7 @@ Para a realização deste desafio foram utilizados:
 
 <br>
 
-> **Conclusão**: *De modo geral gostei muito do desafio (falando serio mesmo), me fez pensar bastante e de certa forma agregou com novos conhecimentos aprendidos ao tentar solucionar as questões;*
+> **Considerações**: *De modo geral gostei muito do desafio (falando serio mesmo), me fez pensar bastante e de certa forma agregou com novos conhecimentos aprendidos ao tentar solucionar as questões;*
 
 
 
